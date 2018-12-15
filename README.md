@@ -1,0 +1,2 @@
+# cookiebotfork
+fork of cookieclickerbots
